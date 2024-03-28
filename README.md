@@ -1,11 +1,10 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Hello+there%2C+I'm+Mobarak!)](https://git.io/typing-svg) <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am a software engineer. Love to work with challenging things.
+I am a software engineer, currently working at AppsCode with KubeDB team. Love to work with challenging things.
 My hobbies are:
 - Programming, Problem Solving.
 - Playing Cricket and Video Games.
 - Traveling and Exploring New Things.
--  I’m currently working at AppsCode with KubeDB team
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +31,7 @@ My hobbies are:
 
 
 ## ⚙️ Languages & Frameworks
-Languages & frameworks have been sorted as ...  most proficient on the left and less proficient on the right <br>
+Languages have been sorted as ...  most proficient on the left and less proficient on the right <br>
 
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -47,7 +46,8 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 
-![C++](https://img.shields.io/badge/kubebuilder-00599C.svg?style=for-the-badge&logo=kubebuilder%2B%2B&logoColor=white&color=00599C)
+![Kubebuilder](https://img.shields.io/badge/kubebuilder-00599C.svg?style=for-the-badge&logo=kubebuilder%2B%2B&logoColor=white&color=00599C)
+![Ginkgo](https://img.shields.io/badge/ginkgo-00599C.svg?style=for-the-badge&logo=ginkgo&logoColor=white&color=00599C)
 ![ASP.NET](https://img.shields.io/badge/asp.net-43853D?style=for-the-badge&logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-404D59?style=for-the-badge&logo=laravel)
 
@@ -63,14 +63,10 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
         <img alt="Mobarak's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=MobarakHsn&show_icons=true&theme=cobalt">
     </a>
         
-![Mobarak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MobarakHsn&bg_color=000000&color=c87414&line=0a9948&point=ffffff&area=true&hide_border=true)
+
     
 </p>
 
-
-<!-- 
-<img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=MobarakHsn&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MobarakHsn&theme=react" alt="Arnobkumarsaha" /></p>
 
