@@ -1,7 +1,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Hello+there%2C+I'm+Mobarak!)](https://git.io/typing-svg) <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 I am a software engineer. Love to work with challenging things.
-My primary hobbies are:
+My hobbies are:
 - Programming, Problem Solving.
 - Playing Cricket and Video Games.
 - Traveling and Exploring New Things.
@@ -57,7 +57,7 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
 ## &#x1f4c8; GitHub Stats
 <p>
     <a align="left" href="https://github.com/MobarakHsn?tab=repositories">
-        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobarakHsn&count_private=true&theme=cobalt&layout=compact&hide=jupyter notebook&langs_count=10">
+        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobarakHsn&layout=compact&langs_count=10">
     </a>
     <a align="right" href="https://github.com/MobarakHsn?tab=repositories">
         <img alt="Mobarak's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=MobarakHsn&show_icons=true&theme=cobalt">
