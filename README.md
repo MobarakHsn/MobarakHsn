@@ -68,7 +68,7 @@ Languages have been sorted as ...  most proficient on the left and less proficie
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MobarakHsn&theme=react" alt="Arnobkumarsaha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MobarakHsn&theme=react" alt="MobarakHsn" /></p>
 
 <a href="https://github.com/ellerbrock/open-source-badges/">
     <img width=""auto"  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=mobarak.hsn" />
