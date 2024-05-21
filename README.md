@@ -46,6 +46,8 @@ Languages have been sorted as ...  most proficient on the left and less proficie
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 
+![go-chi](https://img.shields.io/badge/go-chi-00599C.svg?style=for-the-badge&logo=go-chi%2B%2B&logoColor=white&color=00599C)
+![Cobra](https://img.shields.io/badge/Cobra-00599C.svg?style=for-the-badge&logo=Cobra%2B%2B&logoColor=white&color=005762)
 ![Kubebuilder](https://img.shields.io/badge/kubebuilder-00599C.svg?style=for-the-badge&logo=kubebuilder%2B%2B&logoColor=white&color=00599C)
 ![Ginkgo](https://img.shields.io/badge/ginkgo-00599C.svg?style=for-the-badge&logo=ginkgo&logoColor=white&color=00599C)
 ![ASP.NET](https://img.shields.io/badge/asp.net-43853D?style=for-the-badge&logo=.net&logoColor=white)
