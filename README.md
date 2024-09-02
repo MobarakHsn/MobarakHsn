@@ -1,6 +1,6 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Hello+there%2C+I'm+Mobarak!)](https://git.io/typing-svg) <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am a software engineer, currently working at AppsCode with KubeDB team. Love to work with challenging things.
+I am a software engineer, currently working at Cefalo. Previously I have worked at AppsCode with team KubeDB. Love to work with challenging things.
 My hobbies are:
 - Programming, Problem Solving.
 - Playing Cricket and Video Games.
